@@ -1,0 +1,5 @@
+_build
+*.out
+*.native
+test/*.ll
+test/*.s

@@ -1,0 +1,3 @@
+<*.native>: use_llvm_scalar_opts, use_llvm_target, use_llvm_executionengine
+<*.native>: g++, use_llvm, use_unix_fix, use_llvm_bitwriter
+true: use_menhir
